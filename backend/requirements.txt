@@ -1,0 +1,13 @@
+SQLAlchemy
+psycopg2-binary
+databases[asyncpg]
+python-dotenv
+pydantic
+fastapi-utils
+requests
+fastapi-security
+alembic
+python-jose
+passlib
+paho-mqtt
+pendulum

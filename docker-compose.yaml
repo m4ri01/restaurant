@@ -35,5 +35,4 @@ services:
 
 volumes:
   db_restaurant:
-  versions_persistent
-  # versions_persistent:
+  versions_persistent:
